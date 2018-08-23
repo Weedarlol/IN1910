@@ -1,2 +1,2 @@
 # IN1910
-Første øvingstime
+Dette er starten på et lite eventyr for store drømmer
